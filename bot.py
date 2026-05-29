@@ -356,7 +356,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
             "I'm *Bhavishyat*, your career counsellor. I'm here to help you think through "
             "your education and career options — whether you're in school, intermediate, or degree.\n\n"
             "To get started, could you tell me:\n"
-            "• Which class/year are you in?\n"
+            "• Your name, which class/year are you in?\n"
             "• What stream or group are you studying?\n"
             "• What are you hoping to explore today?\n\n"
             "Feel free to write in Telugu or English — both are fine! 😊"
